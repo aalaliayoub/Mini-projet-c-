@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1713897519 source:c:\users\lenovo\documents\miniprojet\main.cpp
+	<iostream>
+
+1713367054 c:\users\lenovo\documents\miniprojet\automat.h
+	<iostream>
+	<cstring>
+	<vector>
+	"Slot.h"
+	"CoinSlot.h"
+	"Keypad.h"
+	"DropCheck.h"
+
+1713365701 c:\users\lenovo\documents\miniprojet\slot.h
+	<iostream>
+	<cstring>
+	"Motor.h"
+
+1713127285 c:\users\lenovo\documents\miniprojet\motor.h
+	<iostream>
+
+1713117189 c:\users\lenovo\documents\miniprojet\coinslot.h
+	<iostream>
+
+1713117104 c:\users\lenovo\documents\miniprojet\keypad.h
+	<iostream>
+
+1713366962 c:\users\lenovo\documents\miniprojet\dropcheck.h
+	<iostream>
+
